@@ -1,4 +1,4 @@
-h1{
+/* h1{
      color: brown;
      background-color: yellow;
 }
@@ -15,4 +15,12 @@ div{
      height: 50%;
      border: 5px solid green;
      
+} */
+
+.firstDiv{
+     display:flex;
+}
+
+.childDiv{
+     width
 }
