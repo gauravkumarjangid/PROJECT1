@@ -2,7 +2,10 @@ h1{
      color: brown;
      background-color: yellow;
 }
+h1+h1+h1 {
 
+       color: blue;
+}
  body{
      /* background-color: red; */
       margin:0px;
