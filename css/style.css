@@ -22,5 +22,12 @@ div{
 }
 
 .childDiv{
-     width
+     width:50%;
+     height:50%;
+     color:white;
+     background-color:red;
+}
+.childDiv:nth-of-type(2) {
+     baclground-color:magenta !important;
+     
 }
