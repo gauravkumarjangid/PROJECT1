@@ -1,22 +1,3 @@
-/* h1{
-     color: brown;
-     background-color: yellow;
-}
-h1+h1+h1 {
-
-       color: blue;
-}
- body{
-      background-color: red; 
-      margin:0px;
-} 
-div{
-     width: 100%;
-     height: 50%;
-     border: 5px solid green;
-     
-} */
-
 .firstDiv{
      display:flex;
      height: 100%;
@@ -29,7 +10,7 @@ div{
      background-color:red;
 }
 .childDiv:nth-of-type(2) {
-     baclground-image: url("../image.jfif");
+     background-image: url("../image.jfif");
      background-size: fit;
 }
      @media (min-width: 576px){
