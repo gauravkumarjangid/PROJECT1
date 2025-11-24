@@ -19,7 +19,7 @@ div{
 
 .firstDiv{
      display:flex;
-     height: 50%;
+     height: 100%;
 }
 
 .childDiv{
