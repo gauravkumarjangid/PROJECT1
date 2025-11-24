@@ -15,6 +15,6 @@
 }
      @media (min-width: 576px){
           .firstDiv{
-               flex-direction: column:
+               flex-direction: column;
           }
      }
