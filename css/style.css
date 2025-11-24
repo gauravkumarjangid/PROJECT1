@@ -10,7 +10,7 @@
      background-color:red;
 }
 .childDiv:nth-of-type(2) {
-     background-image: url("image.jfif");
+     background-image: url("../image.jfif");
      background-size: fit;
 }
      @media (min-width: 576px){
