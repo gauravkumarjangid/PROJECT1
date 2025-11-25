@@ -1,25 +1,4 @@
-.firstDiv{
-  display: flex;
-  height:50%;
-}
-
- .childDiv{
-   width:50%;
-   height:50%;
-   color:white;
-   background-color:red;
-   border: 5px solid black;
- }
-.childDiv:nth-of-type(2){
-background-image: url("../image2.jpg");
-background-size: fit;
-}
-
-@media (min-width:576px){
-  .firstDiv{
-    flex-direction:column;
-  }
-  .childDiv{
-    width:50%;
-  }
-}
+.header {
+  width: 100%;
+  height: 200px;
+  
