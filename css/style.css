@@ -12,7 +12,7 @@
  }
 .childDiv:nth-of-type(2){
 background-image: url("../image2.jpg");
-
+background-size: fit;
 }
 
 @media (min-width:576px){
