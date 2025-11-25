@@ -10,6 +10,11 @@ margin: 0;
   
 }
 @media (max-width:576px){
+  .header{
+
+    height: 7%;
+    background-color: red;
+  }
 
 
 }
