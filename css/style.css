@@ -9,6 +9,15 @@ margin: 0;
   background-color: blue;
   display:flex;
   }
+.logo{
+  width: 25%;
+  background-color: green;
+}
+  'menu{
+    width: 75%;
+    background-color: black;
+  }
+
 @media (max-width:576px){
   .header {
 
