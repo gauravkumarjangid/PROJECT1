@@ -16,13 +16,13 @@ margin: 0;
 .logo a{
   width: 100%;
   height: 100%;
-  
+   justify-content: center;
 }
 
 .logo a img{
   width: auto;
    height: auto;
-  justify-content: center;
+ 
 }
 
   .menu{
