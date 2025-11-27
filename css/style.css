@@ -30,7 +30,7 @@ margin: 0;
    text-align:center;
    padding:20px;
    width:80%;
-   justify-content:space-around;
+   justify-content:space-bitween;
   }
 .menu a {
  color:white;
