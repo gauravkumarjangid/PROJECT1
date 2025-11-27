@@ -28,10 +28,9 @@ margin: 0;
   .menu{
    display:flex;
    text-align:center;
-   
-   width:100%;
-   
-   justify-content:space-bitween;
+   padding:20px;
+   width:80%;
+   justify-content:space-around;
   }
 .menu a {
  color:white;
