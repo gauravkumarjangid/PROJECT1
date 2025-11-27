@@ -36,7 +36,7 @@ margin: 0;
  color:white;
  text-decoration:none;
 } */
-.menu menubar {
+.menu .menubar {
  display:flex;
    text-align:center;
    padding:20px;
